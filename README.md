@@ -1,5 +1,7 @@
 # jeu-nsi
 
+/!\ ALLER SUR https://github.com/Ben04C/nsi-jeu /!\
+
 The story:
 Screen is flickering while it says“Flicker, Flicker, Flicker, Flicker, You’re a goner”. A murder in a small alley from a slum. Police is already there. A detective (You) arrives at the crime scene. 
 
